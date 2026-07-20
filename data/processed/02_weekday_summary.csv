@@ -1,0 +1,8 @@
+DayOfWeek,Mean,Median,StdDev,Min,Max
+Monday,30.0,30.5,2.45,27,32
+Tuesday,30.4,32.0,2.88,26,33
+Wednesday,30.0,32.0,3.67,24,33
+Thursday,29.4,32.0,4.93,21,33
+Friday,31.5,32.0,1.73,29,33
+Saturday,31.0,31.5,1.41,29,32
+Sunday,30.25,31.0,2.36,27,32
