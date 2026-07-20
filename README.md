@@ -29,6 +29,7 @@ Bellabeat aims to better understand how users interact with fitness trackers to 
 - **Source:** Fitbit Fitness Tracker Data (Kaggle)
 - **Study Period:** April 12 – May 12, 2016
 - **Participants:** 33 Fitbit users
+- Data Source License: Public dataset provided through Kaggle for educational and analytical purposes.
 
 ---
 
@@ -45,17 +46,29 @@ Bellabeat aims to better understand how users interact with fitness trackers to 
 
 ## 📊 Dashboards
 
+## 🌐 Interactive Dashboard
+Explore the complete interactive dashboard on Tableau Public:
+**[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Fitbit_User_Behavior_Analysis/FitbitUserBehaviorAnalysis)**
+
+---
+
+## 📊 Dashboard Preview
+
 ### Study & Data Overview
 
-Provides context about the study, participant engagement, and data reliability.
+![Study & Data Overview](images/01_study_data_overview.png)
+
+---
 
 ### Executive Health Dashboard
 
-Summarizes activity patterns, sleep efficiency, and executive insights.
+![Executive Health Dashboard](images/02_executive_health_dashboard.png)
+
+---
 
 ### Executive Recommendations
 
-Presents business recommendations derived from the analysis.
+![Executive Recommendations](images/03_executive_recommendations.png)
 
 ---
 
@@ -99,7 +112,7 @@ fitbit-user-behavior-analysis/
 
 ## AI-Assisted Development
 
-This project was developed using an AI assistant as a learning and productivity tool to support research, improve documentation, refine communication, and validate technical approaches. 
+This project was developed using large language model (LLM) tools as a learning and productivity tool to support research, improve documentation, refine communication, and validate technical approaches. 
 All analysis, implementation, interpretations, and final decisions were reviewed and completed by the author.
 
 
