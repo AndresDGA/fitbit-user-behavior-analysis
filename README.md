@@ -122,5 +122,5 @@ All analysis, implementation, interpretations, and final decisions were reviewed
 
 Google Data Analytics Professional Certificate
 
-GitHub: https://github.com/AndresDGA
+GitHub: https://github.com/AndresDGA <br>
 LinkedIn: https://www.linkedin.com/in/andres-galeas-arthos/
